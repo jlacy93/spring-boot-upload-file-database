@@ -22,7 +22,7 @@ import com.bezkoder.spring.files.upload.db.message.ResponseMessage;
 import com.bezkoder.spring.files.upload.db.model.FileDB;
 
 @Controller
-@CrossOrigin("http://localhost:8081")
+@CrossOrigin("http://localhost:4200")
 public class FileController {
 
   @Autowired
